@@ -16,6 +16,7 @@ class displayTodo extends Component{
         }
     }
     async componentDidMount() {
+      console.log("process.env.BASE_URL", process.env.BASE_URL)
     axios.all([
     await axios.get("http://localhost:8080/api/displaytodo"),
     await axios.get("http://localhost:8080/api/allemail")
