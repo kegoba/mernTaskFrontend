@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 30,
+    "editor.suggestFontSize": 30,
+    "editor.codeLensFontSize": 30,
+    "editor.inlayHints.fontSize": 30,
+    "debug.console.fontSize": 30,
+    "notebook.markup.fontSize": 30,
+    "notebook.output.fontSize": 30,
+    "terminal.integrated.fontSize": 30,
+    "interactiveSession.editor.fontSize": 30,
+    "scm.inputFontSize": 30,
+    "markdown.preview.fontSize": 30
+}
